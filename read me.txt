@@ -1,0 +1,3 @@
+The images in the 'trainingData' and 'source' folders in the AlphabetRecognizer-master file have been downloaded from 'github.com/MinhasKamal/AlphabetRecognizer'. 
+Unauthorized use and sharing of all files and images except 'trainingData' and 'source' files are forbidden.
+ Threshold = 0.1 for Prewitt, Roberts, Sobel and Canny Edge Detection.
